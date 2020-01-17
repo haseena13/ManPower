@@ -9,4 +9,8 @@ namespace ManPower
     class ClassHas
     {
     }
+   class a
+    {
+
+    }
 }
